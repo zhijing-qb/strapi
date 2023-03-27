@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "npms",
+  "info": {
+    "singularName": "npm",
+    "pluralName": "npms",
+    "displayName": "npm"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "npm": {
+      "type": "json"
+    }
+  }
+}
